@@ -1,0 +1,8 @@
+.actionScriptProperties
+.DS_Store
+.project
+.settings
+lib/
+bin-debug/
+bin-release/
+workerswfs/
